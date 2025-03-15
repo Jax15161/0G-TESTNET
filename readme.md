@@ -59,18 +59,12 @@ for auto swap 0g testnet
 npm run start
 ```
 
-## Stay Connected
-
-- Channel Telegram : [Telegram](https://t.me/elpuqus)
-- Channel WhatsApp : [Whatsapp](https://whatsapp.com/channel/0029VavBRhGBqbrEF9vxal1R)
-- Discord : [Discord](https://discord.com/invite/uKM4UCAccY)
-
 ## Donation
 
 If you would like to support the development of this project, you can make a donation using the following addresses:
 
 - Solana: `5jQMndHzWVH8MCitXdUEYmshJZXVKCzUG12mxJku4WdX`
-- EVM: `0x72120c3c9cf3fee3ad57a34d5fcdbffe45f4ff28`
+- EVM: `0x9688574cf1481950ae6201cbe5f6a9ae5a97cedd`
 - BTC: `bc1ppfl3w3l4spnda7lawlhlycwuq2ekz74c936c8emwfprfu9hyun6sq5k6xl`
 
 ## Disclaimer
