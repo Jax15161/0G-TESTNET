@@ -23,8 +23,8 @@ for auto swap 0g testnet
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/0g-bot.git
-   cd 0g-bot
+   https://github.com/Jax15161/0G-TESTNET.git
+   cd 0G-TESTNET
    ```
 
 2. Instal Packages and build packages:
